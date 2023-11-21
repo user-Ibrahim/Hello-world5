@@ -5,4 +5,4 @@ This tutoriaal is focus mainly on git and using github
 This repository is built step by step in the tutorial.
 it now include steps for github.
 new line from html-skeleton
-new line to joining with master github
+
