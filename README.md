@@ -7,6 +7,7 @@ it now include steps for github.
 new line from html-skeleton
 it now includes steps for github
 it now includes modif brought from origin master
+after a long time I continue my project
 
 
 
